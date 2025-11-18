@@ -14,7 +14,7 @@ public class MergeTwoSortedArrays {
 		 *  1-mountain array ,rotate array in k step ,rotate array  on the left , jagged arrays ,monotonic array
 		 *  2-reverse linked list 3- character frequency hashmap 4- character frequency without hashmap 
 		 *  4-reverse map ...two pointer technique in string ....solve
-		 * 
+		 * 5- 
 		 * 
 		 */
 		
